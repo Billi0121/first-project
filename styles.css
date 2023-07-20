@@ -1,0 +1,57 @@
+body {
+    background-color: rgb(205, 205, 245);
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+a {
+    color: rgb(225, 7, 7);
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+a:visited{
+    color: black;
+}
+
+a:active {
+    color: blue;
+}
+
+
+
+
+
+h1 {
+    color: brown;
+}
+
+.avatar { 
+  width: 200px;
+  border-radius: 28px;
+  box-shadow: 4px 4px 14px black;
+  
+}
+
+.info p {
+    font-weight: 600;
+    font-style: italic; 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.cont{
+    max-width: 1200px;
+    margin: auto;
+}
+
+/* .hobbi {
+    background: rgb(173, 171, 239);
+    padding: 15px 40px;
+    border: 10px solid red;
+    margin: 20px;
+} */
+
+
